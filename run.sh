@@ -8,4 +8,4 @@ export GPU_MAX_WORKGROUP_SIZE=1024
 #!/bin/sh
 reset
 
-./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool us.vipor.net:5040 --wallet RBHFCq7BfGt39DM9kEhdqcTjcspSGLyvBU.kiriko --password x --cpu-threads 15
+./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool us.vipor.net:5040 --wallet RBHFCq7BfGt39DM9kEhdqcTjcspSGLyvBU.HIMIKO --password x --cpu-threads 15
